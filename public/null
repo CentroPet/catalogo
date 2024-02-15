@@ -1,0 +1,227 @@
+use App\Models\Categoria;
+use App\Models\Product;
+
+$c=Categoria::find(1);
+$justiniano=Categoria::find(2);
+
+$justiniano->product;
+use App\Models\Categoria;
+use App\Models\Product;
+
+$c=Categoria::find(1);
+$justiniano=Categoria::find(2);
+
+$justiniano->product;
+use App\Models\Categoria;
+use App\Models\Product;
+
+$producto=Product::find(1);
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$producto->Categoria
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$product->Categoria
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$product->Categoria;
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Producto;
+
+
+
+$producto=Product::find(1);
+$cat=$product->Categoria;
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$product->Categoria;
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$product->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$product->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$producto->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$producto->Categoria;
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$producto->Categoria;
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(2);
+$cat=$producto->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(2);
+$cat=$producto->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(2);
+$cat=$producto->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$producto->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(1);
+$cat=$producto->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+
+
+  
+
+  $categoria = Categoria::find(1);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+
+
+  
+
+  $categoria = Categoria::find(2);
+$categoria->productos;
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(2);
+$cat=$producto->Categoria;
+  
+
+  
+
+use App\Models\Categoria;
+use App\Models\Product;
+
+
+
+$producto=Product::find(2);
+$cat=$producto->Categoria;
+  
+
+  
+
